@@ -1,7 +1,7 @@
 # ChatKeke-Framework
-(To be) repository of the overall ChatKeke framework, a customizable LLM web frontend+backend
-
 https://github.com/FlyingFathead/ChatKeke-Framework
+
+This is a (to be) repository of the overall ChatKeke framework, a customizable LLM web frontend+backend.
 
 # About
 
