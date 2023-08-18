@@ -16,7 +16,7 @@ ChatKeke's core idea is to provide a low-barrier of entry AI that is accessible 
 - OpenAI API Integration: Utilizes the `gpt-3.5-turbo-16k` model by default (switchable to `GPT-4`) to ensure high-quality chatbot interactions.
 - The backend can also be modified to use any local LLM as the "brains" for the chat interface.
 - OpenAI API function call capabilities: use online search engines, fetch and display news from multiple sources ranging from RSS feeds to web sources.
-- IP Filtering & Security: Advanced IP filtering system for enhanced security and access control.
+- IP Filtering & Security: Advanced IP filtering system for enhanced security and access control (i.e. specific target groups, regionality).
 - Token Management: Efficient handling of OpenAI API tokens. (i.e. set usage limits; per user, hourly, daily...)
 - Dynamic Text Formatting: Handles complex text structures, including syntax highlighting for code snippets and lists.
 - Temporal awareness functionalities: highlights important dates such as national holidays etc.
