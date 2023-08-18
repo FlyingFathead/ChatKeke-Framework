@@ -21,6 +21,10 @@ ChatKeke's core idea is to provide a low-barrier of entry AI that is accessible 
 - Dynamic Text Formatting: Handles complex text structures, including syntax highlighting for code snippets and lists.
 - Temporal awareness functionalities: highlights important dates such as national holidays etc.
 
+# Demo
+
+ChatKeke is currently available online at [https://chatkeke.fi](https://chatkeke.fi) for all Finnish users (region restricted, available in Finland only).
+
 # Author
 
 [FlyingFathead](https://github.com/FlyingFathead/)
